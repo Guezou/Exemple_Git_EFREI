@@ -9,4 +9,8 @@ Je suis balalalalal
 
 testestetsetste
 
+<<<<<<< HEAD
 Ceci est un conflit 
+=======
+Ceci est un nouvel exercice 
+>>>>>>> main
