@@ -5,6 +5,12 @@ Merci de ne pas supprimer
 
 Ceci  est un message pour moi
 
+<<<<<<< HEAD
 Je suis balalalalal
 
 testestetsetste
+=======
+une autre phrase
+
+et encore une
+>>>>>>> main
